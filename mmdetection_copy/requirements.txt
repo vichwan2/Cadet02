@@ -1,0 +1,124 @@
+addict==2.4.0
+aliyun-python-sdk-core==2.15.2
+aliyun-python-sdk-kms==2.16.5
+autocommand==2.2.2
+backports.tarfile==1.2.0
+Brotli @ file:///croot/brotli-split_1714483155106/work
+certifi @ file:///croot/certifi_1725551672989/work/certifi
+cffi==1.17.1
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+click==8.1.7
+colorama==0.4.6
+coloredlogs==15.0.1
+contourpy==1.1.1
+coverage==7.6.1
+crcmod==1.7
+cryptography==43.0.1
+cycler==0.12.1
+exceptiongroup==1.2.2
+filelock==3.14.0
+flatbuffers==24.3.25
+fonttools==4.53.1
+fsspec==2024.9.0
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455532332/work
+huggingface-hub==0.24.6
+humanfriendly==10.0
+idna @ file:///croot/idna_1714398848350/work
+importlib_metadata==8.4.0
+importlib_resources==6.4.4
+inflect==7.3.1
+iniconfig==2.0.0
+jaraco.context==5.3.0
+jaraco.functools==4.0.1
+jaraco.text==3.12.1
+Jinja2 @ file:///croot/jinja2_1716993405101/work
+jmespath==0.10.0
+kiwisolver==1.4.7
+lmdb==1.5.1
+Markdown==3.7
+markdown-it-py==3.0.0
+MarkupSafe @ file:///croot/markupsafe_1704205993651/work
+matplotlib==3.7.5
+mdurl==0.1.2
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mmcv==2.2.0
+-e git+https://github.com/open-mmlab/mmdetection.git@cfd5d3a985b0249de009b67d04f37263e11cdf3d#egg=mmdet
+mmengine==0.10.4
+model-index==0.1.11
+more-itertools==10.3.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1690561992265/work
+ninja==1.11.1.1
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+nvidia-cublas-cu11==11.11.3.6
+nvidia-cuda-cupti-cu11==11.8.87
+nvidia-cuda-nvrtc-cu11==11.8.89
+nvidia-cuda-runtime-cu11==11.8.89
+nvidia-cudnn-cu11==9.1.0.70
+nvidia-cufft-cu11==10.9.0.58
+nvidia-curand-cu11==10.3.0.86
+nvidia-cusolver-cu11==11.4.1.48
+nvidia-cusparse-cu11==11.7.5.86
+nvidia-ml-py3==7.352.0
+nvidia-nccl-cu11==2.20.5
+nvidia-nvtx-cu11==11.8.86
+onnx==1.16.2
+onnxoptimizer==0.3.13
+onnxruntime==1.19.2
+opencv-python==4.10.0.84
+opendatalab==0.0.10
+openmim==0.3.9
+openxlab==0.1.1
+ordered-set==4.1.0
+oss2==2.17.0
+packaging==24.1
+pandas==2.0.3
+pillow @ file:///croot/pillow_1721059439630/work
+platformdirs==4.3.2
+pluggy==1.5.0
+protobuf==5.28.1
+psutil==6.0.0
+py-cpuinfo==9.0.0
+pycocotools==2.0.7
+pycparser==2.22
+pycryptodome==3.20.0
+Pygments==2.18.0
+pyparsing==3.1.4
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+pytest==8.3.3
+pytest-runner==6.0.1
+python-dateutil==2.9.0.post0
+PyTurboJPEG==1.7.6
+pytz==2023.4
+PyYAML @ file:///croot/pyyaml_1698096049011/work
+regex==2024.7.24
+requests==2.28.2
+rich==13.4.2
+safetensors==0.4.5
+scipy==1.10.1
+seaborn==0.13.2
+shapely==2.0.6
+six==1.16.0
+sympy @ file:///croot/sympy_1724938189289/work
+tabulate==0.9.0
+termcolor==2.4.0
+terminaltables==3.1.10
+tifffile==2023.7.10
+tokenizers==0.19.1
+tomli==2.0.1
+torch==2.4.1+cu118
+torchaudio==2.4.1+cu118
+torchvision==0.19.1+cu118
+tqdm==4.65.2
+transformers==4.44.2
+triton==3.0.0
+typeguard==4.3.0
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+tzdata==2024.1
+ultralytics==8.2.93
+ultralytics-thop==2.0.6
+urllib3==1.26.20
+yapf==0.40.2
+zipp==3.20.1
